@@ -1,5 +1,5 @@
 /* PC、スマホ共通スタイル */
-body {
+  body {
     font-family: "Source Sans Pro", "Hiragino Kaku Gothic ProN", Meiryo, Arial, sans-serif;
   }
   
@@ -59,7 +59,7 @@ body {
       color: #0d0d0d;
     }
 
-    
+    /* PCの画面幅の場合にSPのナビゲーションを非表示 */
     #menu-sp	{
       display: none;
     }
@@ -69,7 +69,7 @@ body {
     }
 
   }
-
+    
 
 /*================
 SP用のスタイル 
